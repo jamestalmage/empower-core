@@ -1,7 +1,7 @@
 {
-  "name": "empower-core",
+  "name": "@jamestalmage/empower-core",
   "description": "Power Assert feature enhancer for assert function/object",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Takuto Wada",
     "email": "takuto.wada@gmail.com",
